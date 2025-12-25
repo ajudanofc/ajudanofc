@@ -57,7 +57,7 @@
 <p align="center">
   <a href="youtube.com"><img src="https://img.shields.io/badge/YouTube-AjudanOfficial-red?style=for-the-badge&logo=youtube"/></a>
   <a href="https://whatsapp.com/channel/0029VbCMsA84yltMXpmJyu3G"><img src="https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge&logo=whatsapp"/></a>
-  <a href="tiktok.com"><img src="https://img.shields.io/badge/TikTok-@Qwela.38-black?style=for-the-badge&logo=tiktok"/></a>
+  <a href="tiktok.com"><img src="https://img.shields.io/badge/TikTok-@ajudan.ofc-black?style=for-the-badge&logo=tiktok"/></a>
   <a href="https://t.me/AJDN778"><img src="https://img.shields.io/badge/Telegram-Store-blue?style=for-the-badge&logo=telegram"/></a>
 </p>
 
